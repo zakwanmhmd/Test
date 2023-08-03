@@ -1,11 +1,11 @@
-testing
+test
 
 this text file contains
 no necessary informations
 
 whatsoever. only unimportant 
-data is contain
-within
+data is contained
+within 
 this
 
 text file
